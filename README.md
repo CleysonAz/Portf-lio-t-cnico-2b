@@ -13,4 +13,4 @@ Gmail | cleyson_azevedo@estudante.sc.senai.br
 * Power point
 * Apredizagem industrial em assistente em informática
 * Java | iniciante
-
+* Amar a prof maria
