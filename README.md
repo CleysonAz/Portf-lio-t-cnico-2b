@@ -9,6 +9,7 @@ Esse repositório está sendo criado com uma forma de avaliação e armazenament
 * [Exemplo5](FundamentosTi/Exemplo5.sh)
 
 # Lógica Computacional
+* [Programinha](LógicaComputacional/Programinha_Juros.java)
 
 ## Informações
 Nome | Cleyson Paes Landim Azevedo <br>
