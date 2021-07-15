@@ -6,7 +6,7 @@ Esse repositório está sendo criado com uma forma de avaliação e armazenament
 
 # Fundamentos de Ti
 
-[Exemplo5](FundamentosTi/Exemplo5.sh)
+* [Exemplo5](FundamentosTi/Exemplo5.sh)
 
 # Lógica Computacional
 
