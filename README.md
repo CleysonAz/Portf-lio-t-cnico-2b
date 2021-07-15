@@ -1,13 +1,15 @@
 
 # PortfolioTecnico2B
 ## Cleyson Paes Landim Azevedo
+
+Esse repositório está sendo criado com uma forma de avaliação e armazenamento de atividades das áreas técnicas da escola S, turma 2b
+
 # Fundamentos de Ti
 
 [Exemplo5](FundamentosTi/Exemplo5.sh)
 
 # Lógica Computacional
 
-Esse repositório está sendo criado com uma forma de avaliação e armazenamento de atividades das áreas técnicas da escola S, turma 2b
 ## Informações
 Nome | Cleyson Paes Landim Azevedo <br>
 Data de nascimento | 27/12/2004 <br>
