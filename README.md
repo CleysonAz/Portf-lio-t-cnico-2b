@@ -1,4 +1,4 @@
-[Exemplo5](FundamentosTi/Exemplo5.sh)
+
 
 # PortfolioTecnico2B
 ## Cleyson Paes Landim Azevedo
