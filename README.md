@@ -10,7 +10,7 @@ Esse repositório está sendo criado com uma forma de avaliação e armazenament
 
 # Lógica Computacional
 * [Programinha](LógicaComputacional/Programinha_Juros.java)
-
+* [atividade_prova_usuario](FundamentosTi/atividade_prova_usuario.sh)
 ## Informações
 Nome | Cleyson Paes Landim Azevedo <br>
 Data de nascimento | 27/12/2004 <br>
