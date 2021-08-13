@@ -1,0 +1,19 @@
+#!/bin/bash
+var=$(ls -ld $1)
+tam=${var:7:1}
+if [ $tam == r ]
+then
+echo "Tem permissao de leitura"
+fi
+ 
+tam2=${var:8:1}
+if [ $tam2 == w ]
+then
+echo "Tem pemissao de escrita"
+fi
+ 
+tam3=${var:9:1}
+if [ $tam3 == x ]
+then
+echo "Tem permissao de execucao"
+fi
