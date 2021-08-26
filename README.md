@@ -10,9 +10,10 @@ Esse repositório está sendo criado com uma forma de avaliação e armazenament
 
 * [Questão Prova](FundamentosTi/att_prova_permissoes.sh)
 * [Avaliação_PRATICA](/FundamentosTi/Avaliação_Pratica/)
+* * [atividade_prova_usuario](FundamentosTi/atividade_prova_usuario.sh)
 # Lógica Computacional
 * [Programinha](LógicaComputacional/Programinha_Juros.java)
-* [atividade_prova_usuario](FundamentosTi/atividade_prova_usuario.sh)
+
 ## Informações
 Nome | Cleyson Paes Landim Azevedo <br>
 Data de nascimento | 27/12/2004 <br>
